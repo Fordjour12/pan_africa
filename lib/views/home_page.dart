@@ -19,7 +19,6 @@ class _HomePageState extends State<HomePage> {
             // hell name
             Text('helow', style: TextStyle()),
 // image icons
-
           ],
         ),
       ),
